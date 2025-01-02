@@ -1,0 +1,1 @@
+# lab_custom-detection-rules-and-automating-alerts-in-elastic-stack
